@@ -9,7 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 0e2b854a-2885-41fb-9617-2713982dea69
-  WEBAPP-NAME: az400-webapp-Training-RK-PwC
+  WEBAPP-NAME: az400-webapp-training-rk-pwc
 
 
 jobs:
